@@ -2,7 +2,7 @@
 
 Flutter Firebase Auth - Google Sign-in, Anonymous Example 입니다.
 
-공식 [FlutterFire Auth Example](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example/lib) 코드를 일부 수정하여 사용하였습니다.
+공식 [FlutterFire Auth Example](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example) 코드를 일부 수정하여 사용하였습니다.
 
 
 ## 수정 사항
